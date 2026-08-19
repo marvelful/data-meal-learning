@@ -53,15 +53,6 @@ Develop practical Data × MEAL projects and document the results.
 
 Projects will be added as I progress through the journey.
 
-## Progress
-
-| Day | Focus                       | Status |
-| --- | --------------------------- | ------ |
-| 1   | Set up learning environment | 🔄     |
-| 2   | MEAL foundations            | ⬜      |
-| 3   | Monitoring vs Evaluation    | ⬜      |
-| ... | ...                         | ...    |
-
 ## Why I'm Doing This
 
 I want to understand not only how to build technology and analyse data, but also how to determine whether those solutions are actually creating meaningful impact.
